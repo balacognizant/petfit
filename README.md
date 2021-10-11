@@ -15,7 +15,7 @@ I'm using Firebase Realtime Database for authentication, storing and fetching bo
 
 Please use the below test accounts
 
-### ADMIN Username:
+### ADMIN USERS:
 admin@test.com / admin123
 ### RESTRICTED USERS: 
 test@test.com / test123
