@@ -3,7 +3,6 @@
 This is the Flutter Mini project developed by Balagurunath Srinivasan
 
 ## Getting Started
-
 This project has option to 
     - Login
     - List Pets
