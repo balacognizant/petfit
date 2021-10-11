@@ -1,6 +1,6 @@
 # petfit
 
-This is the Flutter Mini project developed by Balagurunath Srinivasan (458775)
+This is the Flutter Mini project developed by Balagurunath Srinivasan
 
 ## Getting Started
 
