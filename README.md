@@ -1,4 +1,4 @@
-# petfit
+# PETFIT
 
 This is the Flutter Mini project developed by Balagurunath Srinivasan
 
