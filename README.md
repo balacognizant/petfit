@@ -5,11 +5,11 @@ This is the Flutter Mini project developed by Balagurunath Srinivasan
 ## Getting Started
 
 This project has option to 
-    Login
-    List Pets
-    Add a new Pet
-    List Pet Product
-    Add Pet Product
+    - Login
+    - List Pets
+    - Add a new Pet
+    - List Pet Product
+    - Add Pet Product
 
 I'm using Firebase Realtime Database for authentication, storing and fetching both pet and Product data
 
